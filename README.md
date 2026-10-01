@@ -19,6 +19,13 @@ A [3]-key macropad built around a Seeed XIAO RP2040, custom PCB, 3D printed case
 ![PCB](assets/pcb-screenshot.png)
 ![Case](assets/case-screenshot.png)
 
+## BOM
+
+| Part | Qty | Notes |
+|------|-----|-------|
+| Cherry MX-style switches | 3 | |
+| XIAO RP2040 | 1 | |
+
 ## Built for
 
 [Hack Club Stardance](https://stardance.hackclub.com) — Hackpad mission.
